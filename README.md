@@ -2,12 +2,6 @@
 
 ## 28 сентября
 
-Модель `User`
+<h1>Кузьмина Виктория Александровна</h1>
 
-~~~~
-User email password_digest name admin
-~~~~
 
-~~~~
-rails g scaffold User email:string password_digest:string name:string admin:boolean
-~~~~
